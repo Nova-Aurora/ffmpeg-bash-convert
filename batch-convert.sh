@@ -1,4 +1,5 @@
 #!/bin/sh
+#Batch processing for ffmpeg using 1-pass encoding
 
 #Getting user input for file options
 read -p "Name of the directory to put output files in?
